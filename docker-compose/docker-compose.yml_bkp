@@ -1,0 +1,6 @@
+services:
+    appcliations:
+      image: facebooc
+      ports: 
+      - "7396:16000"
+    

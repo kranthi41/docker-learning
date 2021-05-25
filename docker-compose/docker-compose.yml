@@ -1,0 +1,7 @@
+services:
+    dockerpackageonlybuild:
+      image: facebooc 
+    dockernormalbuild:
+      image: krbh0717devopssch/petclinic 
+  #dockermultistagebuild:
+   # image: krbh0717/docker-multi-stage-build-demo 
